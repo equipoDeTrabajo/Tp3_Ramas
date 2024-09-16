@@ -1,1 +1,5 @@
 "Este txt es creado por Usuario Colaborativo en la rama Rama_UsuarioColaborativo" 
+"Este txt es creado por Genaro en la rama Rama_Genaro" 
+"----Resolver conflicto----"
+"Puedo optar por cualquiera de las dos versiones para resolver el conflicto pero yo las voy a dejar a ambas"
+
